@@ -1,2 +1,2 @@
 # COMAR
-moved to [here](https://www.rub.de)
+moved to [here](https://github.com/ChairImpSec/COMAR)
