@@ -1,2 +1,2 @@
 # COMAR
-moved to (www.rub.de)
+moved to [here](www.rub.de)
