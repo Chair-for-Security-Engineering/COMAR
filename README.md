@@ -1,2 +1,2 @@
 # COMAR
-test
+moved to (www.rub.de)
